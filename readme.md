@@ -4,7 +4,7 @@
 - [x] Postgres
   - [x] Instalação
   - [x] Geração do schema
-  - [X] População da base
+  - [x] População da base
   - [x] Query's
 - [ ] Oracle
   - [x] Instalação
@@ -14,7 +14,7 @@
 - [ ] MongoDB
   - [x] Instalação
   - [x] Geração do schema (Normalizado)
-  - [ ] Geração do schema (Denormalizado)
+  - [x] Geração do schema (Denormalizado)
   - [ ] População da base (Normalizado)
   - [ ] População da base (Denormalizado)
   - [ ] Query's (Normalizado)
