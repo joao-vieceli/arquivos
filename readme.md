@@ -9,7 +9,7 @@
 - [ ] Oracle
   - [x] Instalação
   - [x] Geração do schema - (testei e fiz os ajustes está gerando certo)
-  - [ ] População da base
+  - [x] População da base
   - [ ] Query's
 - [ ] MongoDB
   - [x] Instalação
