@@ -27,9 +27,9 @@ CREATE TABLE "post" (
     "conteudo"	            TEXT      NOT NULL,
     "data_hora_publicacao"  TIMESTAMP NOT NULL DEFAULT CURRENT_TIMESTAMP,
     "data_hora_atualizacao" TIMESTAMP NOT NULL DEFAULT CURRENT_TIMESTAMP,
-    "likes"	            INTEGER   NOT NULL DEFAULT 0,
+    "likes"	                INTEGER   NOT NULL DEFAULT 0,
     "dislikes"	            INTEGER   NOT NULL DEFAULT 0,
-    "visualizacoes"	    INTEGER   NOT NULL DEFAULT 0,
+    "visualizacoes"	        INTEGER   NOT NULL DEFAULT 0,
     "nota_post"	            NUMERIC   NOT NULL DEFAULT 0.0,
     "pessoa_id"	            INTEGER   NOT NULL,
 
