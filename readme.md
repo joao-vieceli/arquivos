@@ -8,7 +8,7 @@
   - [x] Query's
 - [ ] Oracle
   - [x] Instalação
-  - [x] Geração do schema - (precisa testar)
+  - [x] Geração do schema - (testei e fiz os ajustes está gerando certo)
   - [ ] População da base
   - [ ] Query's
 - [ ] MongoDB
