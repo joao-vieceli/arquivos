@@ -6,21 +6,21 @@
   - [x] Geração do schema
   - [x] População da base
   - [x] Query's
-- [ ] Oracle
+- [x] Oracle
   - [x] Instalação
   - [x] Geração do schema - (testei e fiz os ajustes está gerando certo)
   - [x] População da base
-  - [ ] Query's
-- [ ] MongoDB
+  - [x] Query's
+- [x] MongoDB
   - [x] Instalação
   - [x] Geração do schema (Normalizado)
   - [x] Geração do schema (Denormalizado)
-  - [ ] População da base (Normalizado)
-  - [ ] População da base (Denormalizado)
-  - [ ] Query's (Normalizado)
-  - [ ] Query's (Denormalizado)
-- [ ] Trabalho Escrito
-  - [ ] ...
+  - [x] População da base (Normalizado)
+  - [x] População da base (Denormalizado)
+  - [x] Query's (Normalizado)
+  - [x] Query's (Denormalizado)
+- [x] Trabalho Escrito
+  - [x] ...
 
 ## Links
 
